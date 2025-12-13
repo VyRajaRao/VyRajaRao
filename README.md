@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**VyRajaRao/VyRajaRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Raja, a software developer aspirant and enthusiast, currently pursuing my **B.Tech in Computer Science and Engineering (3rd year)** at **MLRIT, India**.
 
-Here are some ideas to get you started:
+I’m actively practicing **Data Structures and Algorithms in C++** and consistently solving problems on **LeetCode**. Alongside this, I build **practical, full-stack web applications** with real-world use cases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- Frontend: React, TypeScript, Tailwind CSS  
+- Backend: Node.js, Express.js  
+- Databases: MongoDB, MySQL  
+- AI/ML: Python, TensorFlow, NumPy, Pandas, scikit-learn  
+
+### Interests and Facts
+- A constant and curious learner, always open to exploring new technologies and tools  
+- Exploring DevOps concepts with a focus on scalability, security, and end-to-end system workflows  
+- Interested in animations and modern UI interactions  
+- Enjoys open-world gacha games like *Genshin Impact* and listening to OSTs and BGMs  
+
+You can learn more about me on my portfolio:  
+🔗 **https://vyrajurao-portfolio.vercel.app**
+
+Some of my projects are pinned below.
