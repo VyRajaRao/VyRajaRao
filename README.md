@@ -22,9 +22,6 @@ You can learn more about me on my portfolio:
 Some of my projects are pinned below.
 
 ---
-
-## 🛠 Languages and Tools
-
 ## 🛠 Languages and Tools
 
 <p align="left">
@@ -60,22 +57,3 @@ Some of my projects are pinned below.
 
 
 ---
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30"/>
-  </a>
-  <a href="https://vyrajurao-portfolio.vercel.app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" width="30"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
