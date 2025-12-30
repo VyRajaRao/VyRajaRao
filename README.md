@@ -8,7 +8,7 @@ I’m actively practicing **Data Structures and Algorithms in C++** and consiste
 - Frontend: React, TypeScript, Tailwind CSS  
 - Backend: Node.js, Express.js  
 - Databases: MongoDB, MySQL  
-- AI/ML: Python, TensorFlow, NumPy, Pandas, scikit-learn  
+- AI/ML: Python, TensorFlow, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn  
 
 ### Interests and Facts
 - A constant and curious learner, always open to exploring new technologies and tools  
