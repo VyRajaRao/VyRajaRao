@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Raja, a software developer aspirant and enthusiast, currently pursuing my **B.Tech in Computer Science and Engineering (3rd year)** at **MLRIT, India**.
+I’m Raja, a software developer aspirant and AI/ML enthusiast, currently pursuing my **B.Tech in Computer Science and Engineering (3rd year)** at **MLRIT, India**.
 
 I’m actively practicing **Data Structures and Algorithms in C++** and consistently solving problems on **LeetCode**. Alongside this, I build **practical, full-stack web applications** with real-world use cases.
 
